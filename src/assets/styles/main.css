@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --primary-color: #01a7fd;
+  --secondary-color: #003cff;
+  --text-color: #111111;
+  --secondary-text-color: rgba(17, 17, 17, 0.48);
+  --background-color: #fff;
+  --secondary-background-color: rgba(17, 17, 17, 0.1);
+
+  --font-size-small: 13px;
+  --font-size-medium: 14px;
+  --font-size-large: 16px;
+
+  --transition-duration: 0.3s;
+}
