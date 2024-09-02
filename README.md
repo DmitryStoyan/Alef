@@ -1,35 +1,32 @@
-# тестовое Alef
+# Тестовое задание Alef
 
-This template should help get you started developing with Vue 3 in Vite.
+**Функционал:**
+- Управление личными данными и данными о детях.
+- Интерфейс для ввода и сохранения данных.
+- Предварительный просмотр введенной информации.
 
-## Recommended IDE Setup
+**Ссылки:**
+- [Сайт](https://alef-khaki.vercel.app/)
+- [Макет Figma](https://www.figma.com/design/34RHaNzxPnoTPCtpIrqMYU/Test-Alef?node-id=2286-7698&node-type=CANVAS&t=DKIEEoTpDQm5gsb3-0)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+ **Как начать**
 
-## Customize configuration
+1. Клонируйте репозиторий на ваш локальный компьютер:
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+   ```bash
+     git clone <URL_репозитория>
+   ```
+2. Установите зависимости:
+   
+   ```bash
+      npm install
+   ```
+3. Запустите проект:
 
-## Project Setup
+   ```bash
+      npm run dev
+   ```
 
-```sh
-npm install
-```
+**Версия npm в проекте: 9.6.6**
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
